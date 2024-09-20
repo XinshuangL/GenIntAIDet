@@ -1,6 +1,6 @@
 # Towards Generalizable and Interpretable AI-Modified Image Detectors
 
-Official implementation of the ICANN 2024 paper Towards Generalizable and Interpretable AI-Modified Image Detectors. 
+Official implementation of the ICANN 2024 paper [Towards Generalizable and Interpretable AI-Modified Image Detectors](https://link.springer.com/chapter/10.1007/978-3-031-72341-4_17). 
 
 <p align="middle">
     <img src="illustration.png">
