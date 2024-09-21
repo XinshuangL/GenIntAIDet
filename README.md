@@ -45,3 +45,23 @@ python main.py --fake_type [fake_type]
 
 ## Acknowledgement
 Thanks to the code base from [CLIP](https://github.com/openai/CLIP), [UniversalFakeDetect](https://github.com/WisconsinAIVision/UniversalFakeDetect), and [CNNDetection](https://github.com/PeterWang512/CNNDetection).
+
+## Citation
+If you find our code or paper helps, please consider citing:
+```
+@InProceedings{10.1007/978-3-031-72341-4_17,
+    author="Liu, Xinshuang
+    and Zhao, Yue",
+    editor="Wand, Michael
+    and Malinovsk{\'a}, Krist{\'i}na
+    and Schmidhuber, J{\"u}rgen
+    and Tetko, Igor V.",
+    title="Towards Generalizable and Interpretable AI-Modified Image Detectors",
+    booktitle="Artificial Neural Networks and Machine Learning -- ICANN 2024",
+    year="2024",
+    publisher="Springer Nature Switzerland",
+    address="Cham",
+    pages="246--257",
+    isbn="978-3-031-72341-4"
+}
+```
